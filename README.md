@@ -105,7 +105,7 @@ This demonstrates basic ML capability within a Databricks pipeline.
 ```
 ├── spotify_project_notebook.ipynb     # Full ETL + ML pipeline notebook
 ├── dashboard.png                      # Dashboard screenshot
-├── job_run.png                        # Automation job run screenshot
+├── jobs.png                        # Automation job run screenshot
 └── README.md                          # Project documentation
 ```
 
