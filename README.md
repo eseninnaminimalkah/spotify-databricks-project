@@ -103,6 +103,7 @@ This demonstrates basic ML capability within a Databricks pipeline.
 ## Repository Contents
 
 ```
+├── spotify_analysis_dataset.csv       # Original Spotify dataset from Kaggle
 ├── spotify_project_notebook.ipynb     # Full ETL + ML pipeline notebook
 ├── dashboard.png                      # Dashboard screenshot
 ├── jobs.png                        # Automation job run screenshot
