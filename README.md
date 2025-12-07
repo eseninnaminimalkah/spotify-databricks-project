@@ -62,9 +62,8 @@ Exploratory analysis done via Databricks Notebook using PySpark — including st
 A Databricks Dashboard was created containing:
 - Two charts (tracks per artist, tracks per album)
 - Interactive filter (e.g., filter by artist)
-- Clear layout and titles
 
-This enabled visual insight extraction.
+So together was created two filters - one for each chart.
 
 ---
 
@@ -109,18 +108,3 @@ This demonstrates basic ML capability within a Databricks pipeline.
 ├── jobs.png                        # Automation job run screenshot
 └── README.md                          # Project documentation
 ```
-
----
-
-## Final Notes
-
-This project showcases:
-- ingestion  
-- cleaning  
-- Delta storage  
-- SQL analysis  
-- dashboard creation  
-- job scheduling automation  
-- machine learning integration  
-
-Together, these components form a practical portfolio-ready example of a **mini end-to-end analytics project** on Databricks
